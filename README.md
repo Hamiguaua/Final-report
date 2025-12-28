@@ -133,3 +133,4 @@ CSV 方便後續讀取訓練資料。
 
 <img width="580" height="612" alt="image" src="https://github.com/user-attachments/assets/4accef56-40ed-4388-83a3-9a09cb2c5e25" />
 
+<img width="559" height="597" alt="image" src="https://github.com/user-attachments/assets/c3985ebb-d758-4cc7-be0c-446fc1361250" />
